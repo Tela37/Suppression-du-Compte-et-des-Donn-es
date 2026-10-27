@@ -1,0 +1,36 @@
+1. Introduction
+Bienvenue sur BaobabTD. La confidentialité et la sécurité des données de nos utilisateurs sont nos priorités absolues. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez l'application mobile et les services web BaobabTD.
+
+Dernière mise à jour : 15 Octobre 2026
+
+2. Données Collectées
+Pour fournir nos services de réseau social et de messagerie, nous collectons les types de données suivants :
+
+Informations de compte : Adresse e-mail, nom, prénom, mot de passe (haché), date de naissance, quartier, ville et pays.
+Contenu généré par l'utilisateur (UGC) : Publications, commentaires, photos, vidéos, messages vocaux et fichiers partagés.
+Messages et conversations : Messages de discussion et médias échangés dans les tchats individuels et de groupe.
+Identifiants d'appareil & Données de service : Identifiants d'appareil et jetons de notification (FCM) utilisés pour l'envoi de notifications push et la diffusion d'annonces via Google AdMob.
+3. Utilisation des Données
+Vos données sont utilisées exclusivement pour :
+
+Créer et gérer votre compte utilisateur sur BaobabTD.
+Permettre la publication de contenus, les commentaires, l'envoi de messages en temps réel et les appels.
+Assurer la sécurité des comptes et la modération du contenu inapproprié.
+Afficher des annonces publicitaires adaptées via Google AdMob.
+4. Partage des Données
+Nous ne vendons ni ne louons vos données personnelles. Les données sont partagées uniquement avec nos partenaires d'infrastructure sécurisée :
+
+Google Firebase : Authentification, base de données Firestore/Realtime Database, et stockage des fichiers.
+Google AdMob : Pour l'affichage des annonces et bannières publicitaires.
+5. Suppression du Compte et des Données
+Conformément aux exigences de Google Play, vous avez le droit de supprimer votre compte et toutes vos données personnelles à tout moment :
+
+ Comment supprimer votre compte depuis l'application :
+
+Ouvrez l'application BaobabTD ➔ Rendez-vous dans Paramètres ➔ Cliquez sur Supprimer mon compte. Toutes vos informations personnelles et publications seront immédiatement et définitivement supprimées de nos serveurs Firebase.
+
+6. Sécurité des Données
+Toutes les communications entre l'application et les serveurs sont chiffrées en transit à l'aide des protocoles sécurisés HTTPS / TLS. Les mots de passe sont hachés de manière irréversible avant le stockage.
+
+7. Contact
+Pour toute question concernant cette politique de confidentialité ou pour toute demande d'assistance concernant vos données, contactez-nous à : support@baobabtd.com.
